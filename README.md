@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏠My Blog: https://blog.RainbowYang.moe
+
+[![RainbowYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainbowYang&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainbowYang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
